@@ -16,7 +16,7 @@ langchain-huggingface==0.0.3
 sentence-transformers==3.0.1
 
 # Vector store
-faiss-cpu==1.8.0
+faiss-cpu
 
 # Environment variable loader
 python-dotenv==1.0.1
