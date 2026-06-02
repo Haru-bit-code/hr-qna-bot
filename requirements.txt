@@ -1,22 +1,22 @@
 # Web UI
-streamlit==1.35.0
+streamlit
 
 # PDF reading
-pymupdf==1.24.5
+pymupdf
 
 # LangChain family
-langchain==0.2.6
-langchain-core==0.2.10
-langchain-community==0.2.6
-langchain-groq==0.1.6
-langchain-text-splitters==0.2.2
-langchain-huggingface==0.0.3
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+langchain-huggingface
 
 # Embeddings model (local, free)
-sentence-transformers==3.0.1
+sentence-transformers
 
 # Vector store
 faiss-cpu
 
 # Environment variable loader
-python-dotenv==1.0.1
+python-dotenv
